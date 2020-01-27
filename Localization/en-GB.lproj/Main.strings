@@ -1,0 +1,12 @@
+
+/* Class = "UISegmentedControl"; B58-gZ-Lqt.segmentTitles[0] = "English"; ObjectID = "B58-gZ-Lqt"; */
+"B58-gZ-Lqt.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; B58-gZ-Lqt.segmentTitles[1] = "Swedish"; ObjectID = "B58-gZ-Lqt"; */
+"B58-gZ-Lqt.segmentTitles[1]" = "Swedish";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xw0-bf-L0G"; */
+"Xw0-bf-L0G.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y7d-Ca-NCM"; */
+"Y7d-Ca-NCM.text" = "Label";

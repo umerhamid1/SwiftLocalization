@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by umer hamid on 1/27/20.
+  Copyright © 2020 umer hamid. All rights reserved.
+*/
+"FirstNameKey" = "FirstName";
+"LastNameKey" = "LastName" ;
